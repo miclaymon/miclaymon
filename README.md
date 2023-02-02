@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @miclaymon
-- 👀 I’m interested in ... code
-- 🌱 I’m currently learning ... C++, Python
-- 💞️ I’m looking to collaborate on ... a project
-- 📫 How to reach me ... UNT
+Currently practicing to build web apps using TypeScript, React, Vite, and SCSS.
